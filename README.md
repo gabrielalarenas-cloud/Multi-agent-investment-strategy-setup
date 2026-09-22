@@ -1,4 +1,4 @@
-# Multiagentinvestmentstrategysetup
+# Multi-agent investment strategy setup
 A multiagent AI system, built with [Claude Code](https://code.claude.com), that interviews you, researches real investment options, runs actual numeric projections, and synthesizes a personalized household investment strategy - end to end, with no step left to a single generalist prompt.
 Built as a learning project in agentic multi-agent architecture, and as a working tool for a real household's own strategy.
 
